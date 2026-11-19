@@ -11,7 +11,7 @@ THE NEXT CHAPTER OF GRAND THEFT AUTO
 
 ABOUT THE GAME
 
-Welcome to Grand Theft Auto VI.
+Welcome to Grand Theft Auto VI
 
 Discover the vibrant streets of Vice City and explore the vast state of Leonida.
 
